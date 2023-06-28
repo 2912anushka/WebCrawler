@@ -1,7 +1,5 @@
 # WebCrawler
 
-# IMDb Top Rated Movies Scraper
-
 This script is a web scraper written in Node.js using Cheerio and node-fetch to fetch and extract data from the IMDb Top Rated Movies page. It retrieves the movie names and their ratings from the page and displays them in the console.
 
 ## Prerequisites
